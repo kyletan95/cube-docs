@@ -126,4 +126,4 @@ Your Cube (CUBE) account and CUBE balance appear in MetaMask.
 
 # Coint type for Cube
 
-https://github.com/satoshilabs/slips/blob/master/slip-0044.md
+https://github.com/satoshilabs/slips/blob/master/slip-0044.mdI
